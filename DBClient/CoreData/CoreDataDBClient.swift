@@ -1,10 +1,4 @@
-//
-//  CoreDataDBClient.swift
-//  DBClient
-//
-//  Created by Yury Grinenko on 03.11.16.
-//  Copyright © 2016 Yalantis. All rights reserved.
-//
+
 
 import CoreData
 

@@ -1,10 +1,4 @@
-//
-//  CoreDataMigrationManager.swift
-//  DBClient
-//
-//  Created by Roman Kyrylenko on 2/17/17.
-//  Copyright © 2016 Yalantis. All rights reserved.
-//
+
 
 import CoreData
 import Foundation

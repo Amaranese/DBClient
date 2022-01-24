@@ -1,9 +1,4 @@
-//
-//  NSManagedObjectContext+Extension.swift
-//  DBClient
-//
-//  Copyright © 2016 Yalantis. All rights reserved.
-//
+
 
 import Foundation
 import CoreData
