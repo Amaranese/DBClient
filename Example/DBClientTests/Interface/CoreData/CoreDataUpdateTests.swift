@@ -1,10 +1,4 @@
-//
-//  CoreDataUpdateTests.swift
-//  DBClient-Example
-//
-//  Created by Roman Kyrylenko on 2/9/17.
-//  Copyright © 2017 Yalantis. All rights reserved.
-//
+
 
 import XCTest
 @testable import Example
